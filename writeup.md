@@ -8,11 +8,17 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./output_test_images/img_gray.jpg "Grayscale"
+
 [image2]: ./output_test_images/blur_img.jpg "Blured"
+
 [image3]: ./output_test_images/edges.jpg "Edges"
+
 [image4]: ./output_test_images/img_ROI.jpg "Grayscale"
+
 [image5]: ./output_test_images/hough_output.jpg "Lines"
+
 [image6]: ./output_test_images/Extended_averaged_line.jpg "Grayscale"
+
 [image7]: ./output_test_images/final_img.jpg "Result"
 
 
