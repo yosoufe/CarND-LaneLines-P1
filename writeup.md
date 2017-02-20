@@ -36,7 +36,7 @@ The goals / steps of this project are the following:
 
 ![alt text][image2]
 
-* The Canny edge detection algorithm is appled to the ROI.
+* The Canny edge detection algorithm is applied to the ROI.
 
 ![alt text][image3]
 
@@ -55,7 +55,7 @@ The goals / steps of this project are the following:
 ![alt text][image6]
 
 * All the parameters of the algorithm were chosen roughly until this step. Now the parameters tuned firstly for sample images to get a proper output over all of them.
-* A wighted sum of the source image and the line image is returned as the output of `process_image` function.
+* A weighted sum of the source image and the line image is returned as the output of `process_image` function.
 
 ![alt text][image7]
 
