@@ -7,7 +7,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./output_test_images/img_gray.jpg "Grayscale"
+[image1]: ./output_test_images/grayscale.jpg "Grayscale"
 
 [image2]: ./output_test_images/blur_img.jpg "Blured"
 
