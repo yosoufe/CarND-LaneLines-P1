@@ -65,13 +65,17 @@ The goals / steps of this project are the following:
 ###2. Identify potential shortcomings with your current pipeline
 
 
-One potential shortcoming would be what would happen when ... 
+0. The program can only handle few situations. That means these codes are designed only for two given straight video in highways. There are many different situations exists which this code probably cannot detect the lane.
+0. The system is only looking at a specific ROI which may always not keeping useful information about environment.
 
-Another shortcoming could be ...
+0. It is assumed that the lines are straight which is not always correct
+
+0. The detected lines are vibrating especially when there is a long gap between real lanelines.
 
 
 ###3. Suggest possible improvements to your pipeline
-
-A possible improvement would be to ...
-
-Another potential improvement could be to ...
+0. Algorithm can be tested over a lot of videos while it can be bothersome.
+0. If it would be possible to add information of previous frames to solve for the current, there would be a lot of  possible solutions for the problems above like:
+	0. Choosing the ROI based on the previous frame. For example the new ROI in current frame could be the position of the previous detected line, but only a bit bigger (based on the speed and heading information). This also avoid the noises and decreases the calculation cost.
+	0. Averaging lines over sequence of frames could attenuate the vibration.
+0. Using higher order curves instead of straight lines, can also reduces the vibration and better detection.
