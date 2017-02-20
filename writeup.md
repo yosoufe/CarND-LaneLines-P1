@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 
 [image5]: ./output_test_images/hough_output "Lines"
 
-[image6]: ./output_test_images/Extended_averaged_line "Grayscale"
+[image6]: ./output_test_images/Extended_averaged_line "Extended Averaged Lines"
 
 [image7]: ./output_test_images/final_img "Result"
 
