@@ -7,19 +7,19 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./output_test_images/grayscale.jpg "Grayscale"
+[image1]: ./output_test_images/img_gray "Grayscale"
 
-[image2]: ./output_test_images/blur_img.jpg "Blured"
+[image2]: ./output_test_images/blur_img "Blured"
 
-[image3]: ./output_test_images/edges.jpg "Edges"
+[image3]: ./output_test_images/edges "Edges"
 
-[image4]: ./output_test_images/img_ROI.jpg "Grayscale"
+[image4]: ./output_test_images/img_ROI "Grayscale"
 
-[image5]: ./output_test_images/hough_output.jpg "Lines"
+[image5]: ./output_test_images/hough_output "Lines"
 
-[image6]: ./output_test_images/Extended_averaged_line.jpg "Grayscale"
+[image6]: ./output_test_images/Extended_averaged_line "Grayscale"
 
-[image7]: ./output_test_images/final_img.jpg "Result"
+[image7]: ./output_test_images/final_img "Result"
 
 
 ---
